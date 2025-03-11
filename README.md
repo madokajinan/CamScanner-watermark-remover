@@ -3,7 +3,7 @@
 
 It used PyMuPdf and Pillow.
 
-It removes PDF watermark created by CamScanner, buy I have only tested it on Chinese edition.
+It removes PDF watermark created by CamScanner, but I have only tested it on Chinese edition.
 
 用户可以通过PDF编辑软件自行删除全能扫描王的水印，此程序只是自动执行了这个操作。
 
