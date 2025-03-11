@@ -10,3 +10,5 @@ It removes PDF watermark created by CamScanner, but I have only tested it on Chi
 我没有任何编程经验，一切代码由Microsoft Copilot创作。
 
 使用方法：在release中下载.exe程序，双击运行，选择你要去水印的PDF文件，输出文件会以output.pdf的格式生成在.exe程序的根目录。
+
+**重要** ：建议将exe文件放置于单独的文件夹中。
